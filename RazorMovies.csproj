@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>36c8c9bf-c894-419b-bd10-d688916d371f</UserSecretsId>
+    <Authors>Marcos Leite</Authors>
+    <Company>PUC</Company>
   </PropertyGroup>
 
   <ItemGroup>
